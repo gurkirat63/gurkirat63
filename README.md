@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurkirat63
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on DS projects
+- 🌱 I’m currently learning Computer Vision.
+- 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me gurkirat63@gmail.com
 
 <!---
